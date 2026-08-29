@@ -1,0 +1,1 @@
+Full-stack digital twin AI platform for warehouse and supply-chain optimisation with FastAPI, React, simulation, optimisation, RL, analytics, and reports.

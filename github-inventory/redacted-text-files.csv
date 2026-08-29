@@ -1,0 +1,7 @@
+"OriginalRelativePath","PreparedRelativePath"
+"README.md","README.md"
+"frontend\src\pages\LoginPage.tsx","frontend\src\pages\LoginPage.tsx"
+"frontend\src\pages\SignupPage.tsx","frontend\src\pages\SignupPage.tsx"
+"backend\README.md","backend\README.md"
+"backend\tests\test_api_workflow.py","backend\tests\test_api_workflow.py"
+"backend\app\services\demo_data_service.py","backend\app\services\demo_data_service.py"

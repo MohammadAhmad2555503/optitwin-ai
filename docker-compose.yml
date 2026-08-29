@@ -1,0 +1,15 @@
+services:
+  backend:
+    build: ./backend
+    environment:
+      DATABASE_URL: sqlite:///./optitwinai.db
+      JWT_SECRET: change-this-secret-later
+    ports:
+      - "8000:8000"
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+
